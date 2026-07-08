@@ -95,3 +95,7 @@ The active pin map is selected by `MOTHERBOARD` in `Configuration.h` and resolve
 The firmware in this repo is derived from Marlin and is therefore distributed under **GPL-2.0-or-later**. The upstream `LICENSE` file should be committed alongside this README — **TODO**.
 
 Mechanical / CAD assets (STLs, BOM, drawings) on the project page are released under **TODO: confirm CC-BY / CC-BY-NC / CC-BY-SA**.
+
+## Build resources
+
+- [Bill of Material](https://toolknox.github.io/Robotic-Arm/bill-of-material.html)
