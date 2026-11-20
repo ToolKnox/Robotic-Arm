@@ -99,3 +99,8 @@ Mechanical / CAD assets (STLs, BOM, drawings) on the project page are released u
 ## Build resources
 
 - [Bill of Material](https://toolknox.github.io/Robotic-Arm/bill-of-material.html)
+
+## Bill of Material
+
+[Bill of Material (PDF)](BOM.pdf): every part to buy, with shop links.
+
